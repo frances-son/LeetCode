@@ -6,6 +6,7 @@
 */
 
 
+
 SELECT name, population, area
 FROM World
 WHERE area > 3000000 
